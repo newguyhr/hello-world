@@ -1,2 +1,6 @@
 # hello-world
-Just be afraid
+Just be happy ~
+
+Hi human!
+
+I am a dog!
